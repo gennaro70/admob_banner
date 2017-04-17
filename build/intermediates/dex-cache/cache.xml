@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5793d1efb13756e0363ff89fdfde31f0179b6619/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6220ffaf5fcc64c5c4e61be0f618768b3611dfd3">
+        <dex dex="/Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5d7609c1d3fefde8c68c2d02488029817ae02c21/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/gennaro70/.android/build-cache/0993c4322667bf2dcc74b537a82c0e499c57c62c/output/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:6:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/gennaro70/.android/build-cache/0993c4322667bf2dcc74b537a82c0e499c57c62c/output/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:8:5-33:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/gennaro70/.android/build-cache/a4357fb8dbccb91ea272ef65494787a3a2419ff2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/gennaro70/.android/build-cache/b47fd514e86a1c4c4b824d4531590bd60259f330/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gennaro70/.android/build-cache/88ce28debebff56c1d719d8d0f7c07a4a0ee03eb/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/gennaro70/.android/build-cache/0993c4322667bf2dcc74b537a82c0e499c57c62c/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /Users/gennaro70/.android/build-cache/c5fcd26fae542596ae6d228b3f1713a896e02f3a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/gennaro70/.android/build-cache/7561c034b4d293ca35164b9454929b8de9619fdd/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/gennaro70/.android/build-cache/0aedd96a75b6ae8547094f0a44c6d09a0cc41e8c/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /Users/gennaro70/.android/build-cache/9309569dba87de0acd16387451210624676ee94a/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/gennaro70/.android/build-cache/5e65264401509e69430fcae796fe91041f16abc0/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/gennaro70/.android/build-cache/60bdb686fdf58ecb0101de86b98d7e0519326af7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/gennaro70/.android/build-cache/595f040511c462de3470bbaa0449b18110752d46/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/gennaro70/.android/build-cache/6aa385c9332c87be9e059f6118f16e0fd7d3fdcb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/gennaro70/.android/build-cache/d872ff119e5ad3de9f0079cdc1986cf5655723a4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/gennaro70/.android/build-cache/e6801aca1d92c5500c67498afdf8f44474dcc561/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/gennaro70/.android/build-cache/9ea7ea6857c08af5329b7190e18b2f11e4c3d2bf/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:14:9-40
+meta-data#com.google.android.gms.version
+ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/gennaro70/.android/build-cache/5e65264401509e69430fcae796fe91041f16abc0/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:17:13-58
+activity#com.example.admobbanner.MainActivity
+ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:28:9-31:63
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/gennaro70/.android/build-cache/0993c4322667bf2dcc74b537a82c0e499c57c62c/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:30:13-122
+	android:theme
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:31:13-61
+	android:name
+		ADDED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml:29:13-65
+uses-sdk
+INJECTED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/gennaro70/.android/build-cache/a4357fb8dbccb91ea272ef65494787a3a2419ff2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/gennaro70/.android/build-cache/b47fd514e86a1c4c4b824d4531590bd60259f330/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/gennaro70/.android/build-cache/88ce28debebff56c1d719d8d0f7c07a4a0ee03eb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] /Users/gennaro70/.android/build-cache/6ece7e9bafb75dbca8086f46bf5c2a853103a1ba/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/gennaro70/.android/build-cache/0993c4322667bf2dcc74b537a82c0e499c57c62c/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /Users/gennaro70/.android/build-cache/c5fcd26fae542596ae6d228b3f1713a896e02f3a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /Users/gennaro70/.android/build-cache/7561c034b4d293ca35164b9454929b8de9619fdd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /Users/gennaro70/.android/build-cache/0aedd96a75b6ae8547094f0a44c6d09a0cc41e8c/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /Users/gennaro70/.android/build-cache/9309569dba87de0acd16387451210624676ee94a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /Users/gennaro70/.android/build-cache/5e65264401509e69430fcae796fe91041f16abc0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/gennaro70/.android/build-cache/60bdb686fdf58ecb0101de86b98d7e0519326af7/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/gennaro70/.android/build-cache/595f040511c462de3470bbaa0449b18110752d46/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/gennaro70/.android/build-cache/6aa385c9332c87be9e059f6118f16e0fd7d3fdcb/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/gennaro70/.android/build-cache/d872ff119e5ad3de9f0079cdc1986cf5655723a4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/gennaro70/.android/build-cache/e6801aca1d92c5500c67498afdf8f44474dcc561/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/gennaro70/.android/build-cache/9ea7ea6857c08af5329b7190e18b2f11e4c3d2bf/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gennaro70/AndroidStudioProjects/AdMobBanner/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/gennaro70/.android/build-cache/a4357fb8dbccb91ea272ef65494787a3a2419ff2/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/gennaro70/.android/build-cache/b47fd514e86a1c4c4b824d4531590bd60259f330/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/gennaro70/.android/build-cache/60bdb686fdf58ecb0101de86b98d7e0519326af7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/gennaro70/.android/build-cache/595f040511c462de3470bbaa0449b18110752d46/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/gennaro70/.android/build-cache/6aa385c9332c87be9e059f6118f16e0fd7d3fdcb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/gennaro70/.android/build-cache/d872ff119e5ad3de9f0079cdc1986cf5655723a4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/gennaro70/.android/build-cache/e6801aca1d92c5500c67498afdf8f44474dcc561/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/gennaro70/.android/build-cache/9ea7ea6857c08af5329b7190e18b2f11e4c3d2bf/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/gennaro70/.android/build-cache/63e355331568a48cb58cd7ff2f13ea1579e82a0d/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/gennaro70/.android/build-cache/0993c4322667bf2dcc74b537a82c0e499c57c62c/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/gennaro70/.android/build-cache/0993c4322667bf2dcc74b537a82c0e499c57c62c/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /Users/gennaro70/.android/build-cache/0993c4322667bf2dcc74b537a82c0e499c57c62c/output/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/gennaro70/.android/build-cache/7561c034b4d293ca35164b9454929b8de9619fdd/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/gennaro70/.android/build-cache/7561c034b4d293ca35164b9454929b8de9619fdd/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/gennaro70/.android/build-cache/7561c034b4d293ca35164b9454929b8de9619fdd/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /Users/gennaro70/.android/build-cache/7561c034b4d293ca35164b9454929b8de9619fdd/output/AndroidManifest.xml:19:19-85
